@@ -120,7 +120,7 @@ Your AI Secretary bot is now online and ready to assist your visitors.
 *🔹 STATUS:* 🟢 Online
 
 > *ᴘᴏᴡᴇʀᴅ ʙʏ ʜᴀɴꜱᴀᴋᴀ ꜰᴇʀɴᴀɴᴅᴏ*`; 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/gxgikz.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/Hansaka-Franando-589/AI-Assistant/blob/main/what%20the.png?raw=true` }, caption: up })
 }
 })
     conn.ev.on('creds.update', saveCreds)
